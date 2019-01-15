@@ -23,8 +23,8 @@ CS 6110 is Cornell's graduate class on programming languages. It represents what
 
 [cms]: https://cmsx.cs.cornell.edu/
 [finals]: https://registrar.cornell.edu/exams/spring-final-exam-schedule
-[slack-signup]: https://join.slack.com/t/cs6110-2018sp/signup
-[slack]: https://cs6110-2018sp.slack.com/
+[slack-signup]: https://join.slack.com/t/cs6110-2019sp/signup
+[slack]: https://cs6110-2019sp.slack.com/
 
 # Organization
 
