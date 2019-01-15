@@ -6,7 +6,6 @@
     topic: λ-calculus
     links:
         notes: lec02.pdf
-
 -
     topic: More λ-calculus
     links:
@@ -19,7 +18,6 @@
     topic: Reduction Strategies
     links:
         notes: lec04.pdf
-
 -
     topic: Operational Semantics
     links:
@@ -32,7 +30,6 @@
     topic: Well-Founded Induction
     links:
         notes: lec06.pdf
-
 -
     topic: Structural Induction
     links:
@@ -45,7 +42,6 @@
     topic: More IMP
     links:
         same notes: lec08.pdf
-
 -
     topic: Big-Step Semantics
     links:
@@ -54,7 +50,6 @@
     topic: Evaluation Contexts and Translational Semantics
     links:
         notes: lec09.pdf
-
 -
     topic: More Translation and a Functional Language
     links:
@@ -65,7 +60,6 @@
     topic: Scope
     links:
         notes: lec12.pdf
-
 -
     topic: State
     links:
@@ -74,7 +68,6 @@
     topic: Continuations
     links:
         notes: lec14.pdf
-
 -
     topic: First-Class Continuations
     links:
@@ -87,7 +80,6 @@
     topic: Hoare Logic & Examples
     links:
         same notes: lec16.pdf
-
 -
     topic: Predicate Transformers
     links:
@@ -100,9 +92,6 @@
     topic: Typed λ-calculus
     links:
         notes: lec19.pdf
-
--
-    topic: NetKAT
 -
     topic: Products, Sums, and Datatypes
     links:
@@ -111,7 +100,6 @@
     topic: Type Soundness
     links:
         notes: lec20.pdf
-
 -
     topic: Strong Normalization
     links:
@@ -124,7 +112,6 @@
     topic: Type Inference
     links:
         notes: lec24.pdf
-
 -
     topic: Polymorphic λ-calculus
     links:
@@ -137,7 +124,6 @@
     topic: Recursive Types
     links:
         notes: lec26.pdf
-
 -
     topic: Objects and Existential Types
     links:
@@ -151,7 +137,6 @@
     topic: Linear Types
     links:
         notes: lec30.pdf
-
 -
     topic: Kinds
     links:
@@ -160,7 +145,10 @@
     topic: Dependent Types
     links:
         notes: lec32.pdf
-
+-
+    gap: true
+-
+    gap: true
 -
     topic: Theorem Provers
     links:
