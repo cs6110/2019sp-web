@@ -1,0 +1,270 @@
+-
+    date: January 24
+    topic: Course Overview
+    links:
+        notes: lec01.pdf
+-
+    date: January 26
+    topic: λ-calculus
+    links:
+        notes: lec02.pdf
+
+-
+    date: January 29
+    mon: true
+    topic: More λ-calculus
+    links:
+        same notes: lec02.pdf
+-
+    date: January 31
+    topic: λ-calculus Encodings
+    assignments: A1 out
+    links:
+        notes: lec03.pdf
+-
+    date: February 2
+    topic: Reduction Strategies
+    links:
+        notes: lec04.pdf
+
+-
+    date: February 5
+    mon: true
+    topic: Operational Semantics
+    links:
+        same notes: lec04.pdf
+-
+    date: February 7
+    topic: Fixed Points
+    links:
+        notes: lec05.pdf
+-
+    date: February 9
+    topic: Well-Founded Induction
+    links:
+        notes: lec06.pdf
+
+-
+    date: February 12
+    mon: true
+    topic: Structural Induction
+    links:
+        notes: lec07.pdf
+-
+    date: February 14
+    assignments: A1 due
+    topic: The IMP Language
+    links:
+        notes: lec08.pdf
+-
+    date: February 16
+    topic: More IMP
+    links:
+        same notes: lec08.pdf
+
+-
+    date: February 19
+    mon: true
+    canceled: true
+    event: No class (February Break)
+-
+    date: February 21
+    assignments: A2 out
+    topic: Big-Step Semantics
+    links:
+        same notes: lec08.pdf
+-
+    date: February 23
+    topic: Evaluation Contexts and Translational Semantics
+    links:
+        notes: lec09.pdf
+
+-
+    date: February 26
+    mon: true
+    topic: More Translation and a Functional Language
+    links:
+        same notes: lec09.pdf
+        proof: lec10.pdf
+        more: lec11.pdf
+-
+    date: February 28
+    topic: Scope
+    links:
+        notes: lec12.pdf
+-
+    date: March 2  # Adrian @ UCLA
+    event: Snow day!
+
+-
+    date: March 5
+    mon: true
+    topic: State
+    links:
+        notes: lec13.pdf
+-
+    date: March 7
+    assignments: A2 due, Prelim out
+    topic: Continuations
+    links:
+        notes: lec14.pdf
+-
+    date: March 9  # Adrian @ ISCA PC
+    event: No class (Preliminary Exam)
+
+-
+    date: March 12
+    mon: true
+    topic: First-Class Continuations
+    links:
+        notes: lec15.pdf
+-
+    date: March 14
+    topic: Axiomatic Semantics
+    links:
+        notes: lec16.pdf
+-
+    date: March 16
+    assignments: Prelim due, A3 out
+    topic: Hoare Logic & Examples
+    links:
+        same notes: lec16.pdf
+
+-
+    date: March 19
+    mon: true
+    topic: Predicate Transformers
+    links:
+        notes: lec17.pdf
+-
+    date: March 21  # drop deadline
+    topic: Denotational Semantics
+    links:
+        notes: lec18.pdf
+-
+    date: March 23
+    topic: Typed λ-calculus
+    links:
+        notes: lec19.pdf
+
+-
+    date: March 26  # Adrian @ ASPLOS; guest lecture by Steffen
+    mon: true
+    topic: NetKAT (guest lecture by Steffen Smolka)
+-
+    date: March 28  # Adrian @ ASPLOS; guest lecture by Daniel
+    assignments: A3 due
+    topic: Products, Sums, and Datatypes (guest lecture by Daniel Sainati)
+    links:
+        notes: lec21.pdf
+-
+    date: March 30
+    topic: Type Soundness
+    links:
+        notes: lec20.pdf
+
+-
+    date: April 2
+    mon: true
+    canceled: true
+    event: No class (Spring Break)
+-
+    date: April 4
+    canceled: true
+    event: No class (Spring Break)
+-
+    date: April 6
+    canceled: true
+    event: No class (Spring Break)
+
+-
+    date: April 9
+    mon: true
+    topic: Strong Normalization
+    links:
+        notes: lec22.pdf
+-
+    date: April 11
+    assignments: A4 out
+    topic: Subtyping
+    links:
+        notes: lec23.pdf
+-
+    date: April 13
+    topic: Type Inference
+    links:
+        notes: lec24.pdf
+
+-
+    date: April 16
+    mon: true
+    topic: Polymorphic λ-calculus
+    links:
+        notes: lec25.pdf
+-
+    date: April 18
+    topic: More Polymorphism
+    links:
+        same notes: lec25.pdf
+-
+    date: April 20
+    topic: Recursive Types
+    links:
+        notes: lec26.pdf
+
+-
+    date: April 23
+    mon: true
+    topic: Objects and Existential Types
+    links:
+        notes: lec27.pdf
+-
+    date: April 25
+    assignments: A4 due; A5 out
+    topic: Propositions as Types
+    links:
+        notes: lec28.pdf
+        more: lec29.pdf
+-
+    date: April 27
+    topic: Linear Types
+    links:
+        notes: lec30.pdf
+
+-
+    date: April 30
+    mon: true
+    topic: Kinds
+    links:
+        notes: lec31.pdf
+-
+    date: May 2
+    assignments: A5 proposal due
+    topic: Dependent Types
+    links:
+        notes: lec32.pdf
+-
+    date: May 4
+    topic: Guest Lecture by Andrew Myers
+
+-
+    date: May 7
+    mon: true
+    topic: Theorem Provers
+    links:
+        notes: https://github.com/cs6110/2017sp-web/blob/master/src/lectures/leandemo.md
+-
+    date: May 9
+    assignments: A5 due
+    topic: Program Synthesis
+    links:
+        notes: https://www.cs.cornell.edu/~asampson/blog/minisynth.html
+        code: https://github.com/sampsyo/minisynth
+
+-
+    mon: true
+    date: May 14
+    event: Final Exam Available
+-
+    date: May 21
+    event: Final Exam Due

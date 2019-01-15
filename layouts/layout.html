@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ course.name }}: {{ title }}</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
+  {{#if serve}}
+  <script src="http://localhost:35729/livereload.js"></script>
+  {{/if}}
+</head>
+<body {{#if wide }}class="wide"{{/if}}>
+  <header>
+    <nav>
+      <h1>
+        <a href="./">{{ course.name }}</a>
+      </h1>
+      {{#each pages}}
+      {{#unless this.hide}}
+      <p><a href=".{{ this.link }}">{{ this.title }}</a></p>
+      {{/unless}}
+      {{/each}}
+      {{#each course.links}}
+      <p><a href="{{ this.url }}">{{ this.name }}</a></p>
+      {{/each}}
+    </nav>
+  </header>
+  <main>
+  <h1>{{#if fulltitle}}{{ course.title }}<br>{{ course.term }}{{else}}{{ title }}{{/if}}</h1>
+    {{{ contents }}}
+  </main>
+  <footer>
+      <p><a href="https://www.cornell.edu">Cornell University</a>
+      &mdash;
+      <a href="https://www.cs.cornell.edu">Department of Computer Science</a></p>
+  </footer>
+</body>
+</html>

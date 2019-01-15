@@ -1,0 +1,27 @@
+---
+title: Schedule
+layout: layout.html
+order: 1
+wide: true
+---
+table.schedule
+  thead
+      tr
+        th Date
+        th Topic
+        th Notes
+        th Assignments
+  tbody
+    each day in schedule
+      tr(class=day.canceled ? "canceled" : "" class=day.mon ? "mon" : "")
+        td #{day.date}
+        if day.event
+          td.event(colspan=2) #{day.event}
+        else
+          td #{day.topic}
+          td
+            if day.links
+              each file, name in day.links
+                a(href=relative(resolve("/lectures/", file))) #{name}
+                | #{" "}
+        td #{day.assignments}
