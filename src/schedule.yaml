@@ -1,145 +1,145 @@
 -
-    date: January 24
+    date: January 23
 -
-    date: January 26
+    date: January 25
 
 -
-    date: January 29
+    date: January 28
     mon: true
 -
-    date: January 31
+    date: January 30
     assignments: A1 out
 -
-    date: February 2
+    date: February 1
 
 -
-    date: February 5
+    date: February 4
     mon: true
 -
-    date: February 7
+    date: February 6
 -
-    date: February 9
+    date: February 8
 
 -
-    date: February 12
+    date: February 11
     mon: true
 -
-    date: February 14
+    date: February 13
     assignments: A1 due
 -
-    date: February 16
+    date: February 15
 
 -
-    date: February 19
+    date: February 18
+    mon: true
+-
+    date: February 20
+    assignments: A2 out
+-
+    date: February 22
+
+-
+    date: February 25
     mon: true
     canceled: true
     event: No class (February Break)
 -
-    date: February 21
-    assignments: A2 out
--
-    date: February 23
-
--
-    date: February 26
-    mon: true
--
-    date: February 28
+    date: February 27
 -
     date: March 2
-    event: Snow day!
 
 -
-    date: March 5
+    date: March 4
     mon: true
 -
-    date: March 7
+    date: March 6
     assignments: A2 due, Prelim out
 -
-    date: March 9
+    date: March 8  # Adrian @ ISCA PC
     event: No class (Preliminary Exam)
 
 -
-    date: March 12
+    date: March 11
     mon: true
 -
-    date: March 14
+    date: March 13
 -
-    date: March 16
+    date: March 15
     assignments: Prelim due, A3 out
 
 -
-    date: March 19
+    date: March 18
     mon: true
 -
-    date: March 21
+    date: March 20
 -
-    date: March 23
+    date: March 22
 
 -
-    date: March 26
+    date: March 25
     mon: true
 -
-    date: March 28
+    date: March 27
     assignments: A3 due
 -
-    date: March 30
+    date: March 29
 
 -
-    date: April 2
+    date: April 1
     mon: true
     canceled: true
     event: No class (Spring Break)
 -
-    date: April 4
+    date: April 3
     canceled: true
     event: No class (Spring Break)
 -
-    date: April 6
+    date: April 5
     canceled: true
     event: No class (Spring Break)
 
 -
-    date: April 9
+    date: April 8
     mon: true
 -
-    date: April 11
+    date: April 10
     assignments: A4 out
 -
-    date: April 13
+    date: April 12
 
 -
-    date: April 16
+    date: April 15
     mon: true
 -
-    date: April 18
+    date: April 17
 -
-    date: April 20
+    date: April 19
 
 -
-    date: April 23
+    date: April 22
     mon: true
 -
-    date: April 25
+    date: April 24
     assignments: A4 due; A5 out
 -
-    date: April 27
+    date: April 26
 
 -
-    date: April 30
+    date: April 29
     mon: true
 -
-    date: May 2
+    date: May 1
     assignments: A5 proposal due
 -
-    date: May 4
+    date: May 3
 
 -
-    date: May 7
+    date: May 6
     mon: true
 -
     date: May 9
     assignments: A5 due
+    event: No class (semester's over)
 
 -
     mon: true

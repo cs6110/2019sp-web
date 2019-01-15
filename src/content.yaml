@@ -13,7 +13,6 @@
         same notes: lec02.pdf
 -
     topic: λ-calculus Encodings
-    assignments: A1 out
     links:
         notes: lec03.pdf
 -
@@ -39,7 +38,6 @@
     links:
         notes: lec07.pdf
 -
-    assignments: A1 due
     topic: The IMP Language
     links:
         notes: lec08.pdf
@@ -49,7 +47,6 @@
         same notes: lec08.pdf
 
 -
-    assignments: A2 out
     topic: Big-Step Semantics
     links:
         same notes: lec08.pdf
@@ -74,7 +71,6 @@
     links:
         notes: lec13.pdf
 -
-    assignments: A2 due, Prelim out
     topic: Continuations
     links:
         notes: lec14.pdf
@@ -88,7 +84,6 @@
     links:
         notes: lec16.pdf
 -
-    assignments: Prelim due, A3 out
     topic: Hoare Logic & Examples
     links:
         same notes: lec16.pdf
@@ -107,10 +102,9 @@
         notes: lec19.pdf
 
 -
-    topic: NetKAT (guest lecture by Steffen Smolka)
+    topic: NetKAT
 -
-    assignments: A3 due
-    topic: Products, Sums, and Datatypes (guest lecture by Daniel Sainati)
+    topic: Products, Sums, and Datatypes
     links:
         notes: lec21.pdf
 -
@@ -123,7 +117,6 @@
     links:
         notes: lec22.pdf
 -
-    assignments: A4 out
     topic: Subtyping
     links:
         notes: lec23.pdf
@@ -150,7 +143,6 @@
     links:
         notes: lec27.pdf
 -
-    assignments: A4 due; A5 out
     topic: Propositions as Types
     links:
         notes: lec28.pdf
@@ -165,19 +157,15 @@
     links:
         notes: lec31.pdf
 -
-    assignments: A5 proposal due
     topic: Dependent Types
     links:
         notes: lec32.pdf
--
-    topic: Guest Lecture by Andrew Myers
 
 -
     topic: Theorem Provers
     links:
         notes: https://github.com/cs6110/2017sp-web/blob/master/src/lectures/leandemo.md
 -
-    assignments: A5 due
     topic: Program Synthesis
     links:
         notes: https://www.cs.cornell.edu/~asampson/blog/minisynth.html
