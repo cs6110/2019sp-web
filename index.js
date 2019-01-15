@@ -28,8 +28,24 @@ var site = Metalsmith(__dirname)
   }))
   .use(metadata({
     course: 'course.yaml',
-    schedule: 'schedule.yaml'
+    schedule: 'schedule.yaml',
+    content: 'content.yaml',
   }))
+  .use((files, metalsmith, done) => {
+    // Merge schedule with content.
+    var schedule = metalsmith._metadata.schedule;
+    var content = metalsmith._metadata.content;
+    var cont_i = 0;
+    for (var sched_i = 0; sched_i < schedule.length; sched_i++) {
+      var day = schedule[sched_i];
+      if (!day.event && !day.canceled) {
+        // Allocate a content element.
+        Object.assign(day, content[cont_i]);
+        cont_i++;
+      }
+    }
+    done();
+  })
   .use(define({
     resolve: url.resolve,  // Path join helper.
     relative: function (link) {

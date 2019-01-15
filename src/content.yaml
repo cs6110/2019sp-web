@@ -1,0 +1,184 @@
+-
+    topic: Course Overview
+    links:
+        notes: lec01.pdf
+-
+    topic: λ-calculus
+    links:
+        notes: lec02.pdf
+
+-
+    topic: More λ-calculus
+    links:
+        same notes: lec02.pdf
+-
+    topic: λ-calculus Encodings
+    assignments: A1 out
+    links:
+        notes: lec03.pdf
+-
+    topic: Reduction Strategies
+    links:
+        notes: lec04.pdf
+
+-
+    topic: Operational Semantics
+    links:
+        same notes: lec04.pdf
+-
+    topic: Fixed Points
+    links:
+        notes: lec05.pdf
+-
+    topic: Well-Founded Induction
+    links:
+        notes: lec06.pdf
+
+-
+    topic: Structural Induction
+    links:
+        notes: lec07.pdf
+-
+    assignments: A1 due
+    topic: The IMP Language
+    links:
+        notes: lec08.pdf
+-
+    topic: More IMP
+    links:
+        same notes: lec08.pdf
+
+-
+    assignments: A2 out
+    topic: Big-Step Semantics
+    links:
+        same notes: lec08.pdf
+-
+    topic: Evaluation Contexts and Translational Semantics
+    links:
+        notes: lec09.pdf
+
+-
+    topic: More Translation and a Functional Language
+    links:
+        same notes: lec09.pdf
+        proof: lec10.pdf
+        more: lec11.pdf
+-
+    topic: Scope
+    links:
+        notes: lec12.pdf
+
+-
+    topic: State
+    links:
+        notes: lec13.pdf
+-
+    assignments: A2 due, Prelim out
+    topic: Continuations
+    links:
+        notes: lec14.pdf
+
+-
+    topic: First-Class Continuations
+    links:
+        notes: lec15.pdf
+-
+    topic: Axiomatic Semantics
+    links:
+        notes: lec16.pdf
+-
+    assignments: Prelim due, A3 out
+    topic: Hoare Logic & Examples
+    links:
+        same notes: lec16.pdf
+
+-
+    topic: Predicate Transformers
+    links:
+        notes: lec17.pdf
+-
+    topic: Denotational Semantics
+    links:
+        notes: lec18.pdf
+-
+    topic: Typed λ-calculus
+    links:
+        notes: lec19.pdf
+
+-
+    topic: NetKAT (guest lecture by Steffen Smolka)
+-
+    assignments: A3 due
+    topic: Products, Sums, and Datatypes (guest lecture by Daniel Sainati)
+    links:
+        notes: lec21.pdf
+-
+    topic: Type Soundness
+    links:
+        notes: lec20.pdf
+
+-
+    topic: Strong Normalization
+    links:
+        notes: lec22.pdf
+-
+    assignments: A4 out
+    topic: Subtyping
+    links:
+        notes: lec23.pdf
+-
+    topic: Type Inference
+    links:
+        notes: lec24.pdf
+
+-
+    topic: Polymorphic λ-calculus
+    links:
+        notes: lec25.pdf
+-
+    topic: More Polymorphism
+    links:
+        same notes: lec25.pdf
+-
+    topic: Recursive Types
+    links:
+        notes: lec26.pdf
+
+-
+    topic: Objects and Existential Types
+    links:
+        notes: lec27.pdf
+-
+    assignments: A4 due; A5 out
+    topic: Propositions as Types
+    links:
+        notes: lec28.pdf
+        more: lec29.pdf
+-
+    topic: Linear Types
+    links:
+        notes: lec30.pdf
+
+-
+    topic: Kinds
+    links:
+        notes: lec31.pdf
+-
+    assignments: A5 proposal due
+    topic: Dependent Types
+    links:
+        notes: lec32.pdf
+-
+    topic: Guest Lecture by Andrew Myers
+
+-
+    topic: Theorem Provers
+    links:
+        notes: https://github.com/cs6110/2017sp-web/blob/master/src/lectures/leandemo.md
+-
+    assignments: A5 due
+    topic: Program Synthesis
+    links:
+        notes: https://www.cs.cornell.edu/~asampson/blog/minisynth.html
+        code: https://github.com/sampsyo/minisynth
