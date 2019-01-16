@@ -21,7 +21,7 @@ Gates 411A
 
 [**Andrew Hirsch**][andrew]  
 <akhirsch@cs.cornell.edu>  
-Gates 456
+Office hours: Wednesday 3--4pm in Rhodes 400
 
 [adrian]: http://www.cs.cornell.edu/~asampson/
 [andrew]: http://www.cs.cornell.edu/~akhirsch/
