@@ -16,16 +16,16 @@
     date: February 4
     mon: true
 -
-    date: February 6
+    date: February 6  # Adrian @ SDH meeting
 -
-    date: February 8
+    date: February 8  # Adrian @ SDH meeting
 
 -
     date: February 11
     mon: true
 -
     date: February 13
-    assignments: A1 due
+    assignments: A1 due, A2 out
 -
     date: February 15
 
@@ -34,7 +34,6 @@
     mon: true
 -
     date: February 20
-    assignments: A2 out
 -
     date: February 22
 
@@ -46,7 +45,7 @@
 -
     date: February 27
 -
-    date: March 2
+    date: March 1  # Adrian @ UCLA review
 
 -
     date: March 4
@@ -63,13 +62,14 @@
     mon: true
 -
     date: March 13
+    assignments: Prelim due, A3 out
 -
     date: March 15
-    assignments: Prelim due, A3 out
 
 -
     date: March 18
     mon: true
+    # drop deadline: March 19
 -
     date: March 20
 -
@@ -108,10 +108,10 @@
     date: April 12
 
 -
-    date: April 15
+    date: April 15  # Adrian @ ASPLOS?
     mon: true
 -
-    date: April 17
+    date: April 17  # Adrian @ ASPLOS?
 -
     date: April 19
 
@@ -131,7 +131,7 @@
     date: May 1
     assignments: A5 proposal due
 -
-    date: May 3
+    date: May 3  # Adrian @ alumni weekend
 
 -
     date: May 6
