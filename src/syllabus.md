@@ -34,7 +34,7 @@ We will use a [Slack][] workspace for announcements and communication about the 
 
 You can also ask questions---about lectures, homework, or anything else---on Slack. The #pl channel is for this kind of discussion. The course staff will respond as quickly as possible.
 
-If you can answer a question yourself, please do! But be careful not to post answers---if you're not sure whether something is OK to post, contact the course staff privately. You can do that by sending a **direct message** in Slack to Adrian, Steffen, and Daniel.
+If you can answer a question yourself, please do! But be careful not to post answers---if you're not sure whether something is OK to post, contact the course staff privately. You can do that by sending a **direct message** in Slack to Adrian **and** Andrew.
 
 A good post asks a specific question. Here are some examples of bad Slack posts:
 
@@ -46,6 +46,8 @@ If you need help with a homework problem, for example, be sure to include what y
 ## Assignments: CMS
 
 You will download homework assignments, upload solutions, and receive grades through [CMS][]. Please log in there to see whether you're in the system. If you're not, please send your NetID to the course staff and we'll get you set up.
+
+We're using an anonymous grading system, i.e., we won't know who we're grading. So please do not put your name or NetID anywhere in the PDF you upload to CMS. (CMS knows who you are!)
 
 # Content
 
@@ -123,7 +125,7 @@ On **problem sets**, everything you turn in must be 100% completely your own wor
 
 * Do not show any partial solution to another student or give any hints.
 * Never share code. (Shared code is surprisingly easy to detect.)
-* Do not search the Internet for solutions.
+* Do not search the Internet for solutions. Don't look anything relevant up on Wikipedia. Don't search on Stack Overflow or anywhere else.
 * *Do* ask someone if you're confused about what the assignment is asking for.
 * *Definitely* ask the course staff if you're not sure whether or not something is OK.
 
