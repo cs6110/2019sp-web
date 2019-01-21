@@ -59,16 +59,16 @@ We won't use a textbook, but if you like books, we have [some resources to sugge
 
 Final grades will be assigned with these proportions:
 
-* Problem sets: 35%
+* Assignments: 35%
 * Preliminary exam: 30%
 * Final exam: 30%
 * Participation: 5%
 
 There is no algorithm for "curving" grades or any predetermined cutoffs, so we won't be able to answer questions about letter-grade projections.
 
-## Problem Sets
+## Assignments
 
-Problem sets are due on Wednesdays at 11:59 PM. See the [course schedule][schedule]. You can work on problem sets with a partner; you'll turn in one completed assignment together.
+Assignments are due on Wednesdays at 11:59 PM. See the [course schedule][schedule]. You can work on assignments with a partner; you'll turn in one completed assignment together.
 
 [schedule]: {{ relative "/schedule.html" }}
 
@@ -121,7 +121,7 @@ You can also read about the [protocol for prosecution of violations][aiproceedin
 
 [aiproceedings]: http://www.theuniversityfaculty.cornell.edu/AcadInteg/index.html
 
-On **problem sets**, everything you turn in must be 100% completely your own work (with your partner, if you have one). You may discuss with other students about requirements for the assignment, programming in OCaml, etc. But when it comes to developing specific answers or coding, you may not talk to other students except for your partner or anyone else. Specifically:
+On **assignments**, everything you turn in must be 100% completely your own work (with your partner, if you have one). You may discuss with other students about requirements for the assignment, programming in OCaml, etc. But when it comes to developing specific answers or coding, you may not talk to other students except for your partner or anyone else. Specifically:
 
 * Do not show any partial solution to another student or give any hints.
 * Never share code. (Shared code is surprisingly easy to detect.)
