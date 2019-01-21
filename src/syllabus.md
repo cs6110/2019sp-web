@@ -18,8 +18,9 @@ CS 6110 is Cornell's graduate class on programming languages. It represents what
 - There will be one prelim and one final exam.
   - Both are "take-home" exams. You'll have 24 hours to take the exam anywhere during the space of one week.
 - The homework and exams may feel different from other classes, especially undergrad courses.
-  - Expect the homework to make you try things we haven't done in class. Expect to get stuck and to ask for help. Exams will be less expansive but will still require original thought.
-  - Grading for both homework assignments and exams will have a high standard for precision. Because this class is about formalism, little details matter more than the getting the gist right.
+  - Expect the assignments to make you try things we haven't done in class. Expect to get stuck and to ask for help. Exams will be less expansive but will still require original thought.
+  - Grading for assignments uses a gold-star system: you get full credit if you do everything reasonably well.
+  - Grading for exams will have a high standard for precision. Because this class is about formalism, little details matter more than the getting the gist right.
 
 [cms]: https://cmsx.cs.cornell.edu/
 [finals]: https://registrar.cornell.edu/exams/spring-final-exam-schedule
@@ -75,6 +76,24 @@ Assignments are due on Wednesdays at 11:59 PM. See the [course schedule][schedul
 You'll turn in assignments via [CMS][].
 We strongly encourage you to use TeX, but you can also write up answers by hand. If you do, scan your work and upload it as a PDF. It's your responsibility to make sure scans are 100% legible---we won't regrade work that was too hard to read.
 
+### Gold-Star Grading
+
+<div style="float: right; margin: 0 0 0.5rem 0.5rem;">
+    <img src="img/goldstar.png" width="75" height="75"><br>
+    <img src="img/sparklestar.png" width="75" height="75"><br>
+    <img src="img/nostar.png" width="75" height="75">
+</div>
+
+We are using an experimental, simplified grading scheme for assignments this semester.
+Our goal is to focus on giving you useful feedback, not on "precisely" scoring every granular facet of a homework problem.
+There are three possible outcomes:
+
+- If you do everything reasonably well, whether you have lots of mistakes or are more or less perfect, you will receive a gold star. Congratulations!
+- If you do something surprisingly awesome, you will receive a *sparkly* gold star. This is uncommon.
+- If your work has major gaps or significant misunderstanding, you may receive no stars. This is also uncommon.
+
+Earning gold stars on every assignment will achieve an A in the "assignments" category of your course grade.
+
 ### Timeliness
 
 Late work will not be accepted and will count for zero points. If you need an extension for extenuating circumstances, please talk to the course staff.
@@ -102,7 +121,7 @@ This is a PhD-level course, which means the homework and exams can feel very dif
 * The homework will ask you to do new things *that you have not practiced already during lecture*. This can make the homework feel difficult, and you may even get totally stumped on some problems. This is normal. But it does mean that you should start early and leave time to ask questions.
 * Problems on exams will feel more familiar and should stretch you somewhat less. On the other hand, they will not be slightly tweaked versions of previous homework problems.
 
-Grading on both homework and exams will intentionally focus on nitpicky details. Compared to other courses, we will give more weight to "small" mistakes and less weight to getting the general idea right. That's the nature of this course, which is about formalism. Often, the intuitive idea behind a problem is totally obvious! Then, the topic we're working on is 100% about getting the nitty-gritty formal details right so we can prove something beyond a shadow of a doubt.
+Grading on exams will intentionally focus on nitpicky details. Compared to other courses, we will give more weight to "small" mistakes and less weight to getting the general idea right. That's the nature of this course, which is about formalism. Often, the intuitive idea behind a problem is totally obvious! Then, the topic we're working on is 100% about getting the nitty-gritty formal details right so we can prove something beyond a shadow of a doubt.
 
 Here's a special message for PhD students: Please try not to worry about your grade. I don't know how to put this delicately, but grades matter less as a PhD student than they did in undergrad. Focus on getting as much PL knowledge as you can out of this course---not on acing every assignment.
 
