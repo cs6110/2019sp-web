@@ -15,7 +15,7 @@ in {{ course.room }}
 
 [**Adrian Sampson**][adrian]  
 <asampson@cs.cornell.edu>  
-Office hours: Monday 1:15--2:15pm in Gates 411A
+Office hours: Monday 2:15--3:15pm in Gates 411A
 
 ### Teaching Assistant
 
