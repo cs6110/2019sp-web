@@ -35,6 +35,14 @@ And here are a couple of good online textbooks that are relevant to the course:
 * [*Software Foundations*](https://www.cis.upenn.edu/~bcpierce/sf/) by Benjamin C. Pierce and a supporting cast.
 
 
+## LambdaLab
+
+We've made an experimental web-based tool, called [LambdaLab][], to help you learn the λ-calculus. You can type in terms to reduce them, and you can define and use encodings. It's open source and [on GitHub][llgh], and contributions are welcome.
+
+[lambdalab]: https://capra.cs.cornell.edu/lambdalab/
+[llgh]: https://github.com/cucapra/lambdalab
+
+
 ## Extra Background
 
 Here are some well-written materials on standard PL topics:
