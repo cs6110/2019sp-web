@@ -94,66 +94,66 @@
     links:
         notes: lec18.pdf
 -
-    topic: Typed λ-calculus
+    topic: Partial Orders & Continuity
     links:
         notes: lec19.pdf
 -
-    topic: Products, Sums, and Datatypes
-    links:
-        notes: lec21.pdf
--
-    topic: Type Soundness
+    topic: Typed λ-calculus
     links:
         notes: lec20.pdf
 -
-    topic: Strong Normalization
+    topic: Products, Sums, and Datatypes
     links:
         notes: lec22.pdf
 -
-    topic: Subtyping
+    topic: Type Soundness
+    links:
+        notes: lec21.pdf
+-
+    topic: Strong Normalization
     links:
         notes: lec23.pdf
 -
-    topic: Type Inference
+    topic: Subtyping
     links:
         notes: lec24.pdf
 -
-    topic: Polymorphic λ-calculus
+    topic: Type Inference
     links:
         notes: lec25.pdf
 -
-    topic: More Polymorphism
-    links:
-        same notes: lec25.pdf
--
-    topic: Recursive Types
+    topic: Polymorphic λ-calculus
     links:
         notes: lec26.pdf
 -
-    topic: Objects and Existential Types
+    topic: More Polymorphism
+    links:
+        same notes: lec26.pdf
+-
+    topic: Recursive Types
     links:
         notes: lec27.pdf
 -
-    topic: Propositions as Types
+    topic: Objects and Existential Types
     links:
         notes: lec28.pdf
-        more: lec29.pdf
+-
+    topic: Propositions as Types
+    links:
+        notes: lec29.pdf
+        more: lec30.pdf
 -
     topic: Linear Types
     links:
-        notes: lec30.pdf
+        notes: lec31.pdf
 -
     topic: Kinds
     links:
-        notes: lec31.pdf
+        notes: lec32.pdf
 -
     topic: Dependent Types
     links:
-        notes: lec32.pdf
--
-    gap: true
--
-    gap: true
+        notes: lec33.pdf
 -
     topic: Theorem Provers
     links:
