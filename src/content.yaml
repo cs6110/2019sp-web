@@ -104,11 +104,11 @@
 -
     topic: Products, Sums, and Datatypes
     links:
-        notes: lec22.pdf
+        notes: lec21.pdf
 -
     topic: Type Soundness
     links:
-        notes: lec21.pdf
+        notes: lec22.pdf
 -
     topic: Strong Normalization
     links:
