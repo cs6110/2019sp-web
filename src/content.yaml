@@ -78,15 +78,11 @@
         notes: lec15.pdf
         code: threads.sml
 -
-    topic: Axiomatic Semantics
+    topic: Axiomatic Semantics & Hoare Logic
     links:
         notes: lec16.pdf
 -
-    topic: Hoare Logic & Examples
-    links:
-        same notes: lec16.pdf
--
-    topic: Predicate Transformers
+    topic: Weakest Preconditions
     links:
         notes: lec17.pdf
 -
