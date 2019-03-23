@@ -94,6 +94,10 @@
     links:
         notes: lec19.pdf
 -
+    topic: More CPOs
+    links:
+        same notes: lec19.pdf
+-
     topic: Typed λ-calculus
     links:
         notes: lec20.pdf
