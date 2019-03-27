@@ -48,7 +48,7 @@ If you need help with a homework problem, for example, be sure to include what y
 
 You will download homework assignments, upload solutions, and receive grades through [CMS][]. Please log in there to see whether you're in the system. If you're not, please send your NetID to the course staff and we'll get you set up.
 
-We're using an anonymous grading system, i.e., we won't know who we're grading. So please do not put your name or NetID anywhere in the PDF you upload to CMS. (CMS knows who you are!)
+Please, put your name and/or NetID onto your pdf solutions. We tend to print out the documents in order to grade them, so without your name or NetID it becomes difficult to match your work with you!
 
 # Content
 
