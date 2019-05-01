@@ -2,7 +2,7 @@ This is an introduction to [Agda][], a dependently-typed programming language.
 It is also a proof assistant, and is often used in the research community to provide high-assurance proofs.
 In this respect, it is similar to the more-popular [Coq][] and the less-popular [Lean][].
 Agda [supports][litagda] [literate programming][litprog].
-This file is available as a literate Agda source file.
+This file is [available][thisfile] as a literate Agda source file.
 
 If you want more information about Agda, there are multiple [tutorials][] available, including video tutorials.
 For more on using Agda to study programming languages, I recommend the book [*Software Foundations in Agda*][sfagda].
@@ -16,7 +16,7 @@ This is based on the popular and much-more-in-depth book [*Software Foundations*
 [tutorials]: https://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.Othertutorials
 [sfagda]: https://plfa.github.io/
 [sf]: https://softwarefoundations.cis.upenn.edu/
-
+[thisfile]: https://github.com/cs6110/2019sp-web/blob/master/src/lectures/lec34.lagda.md
 # Definitions, Evaluation, and Type Checking
 
 Like any good functional programming language, Agda lets you define data types.

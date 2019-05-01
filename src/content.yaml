@@ -158,7 +158,7 @@
     topic: Theorem Provers
     links:
         notes: lec34.lagda.html
-        code: https://github.com/cs6110/2017sp-web/blob/master/src/lectures/leandemo.md
+        code: https://github.com/cs6110/2019sp-web/blob/master/src/lectures/lec34.lagda.md
 -
     topic: Program Synthesis
     links:
