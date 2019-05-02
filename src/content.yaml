@@ -155,10 +155,10 @@
     links:
         notes: lec33.pdf
 -
-    topic: Theorem Provers
+    topic: Theorem Provers (guest lecture by Andrew Hirsch)
     links:
-        notes: lec34.lagda.html
-        code: https://github.com/cs6110/2019sp-web/blob/master/src/lectures/lec34.lagda.md
+        notes: https://github.com/cs6110/2019sp-web/blob/master/src/lectures/lec34.lagda.md
+        code: https://raw.githubusercontent.com/cs6110/2019sp-web/master/src/lectures/lec34.lagda.md
 -
     topic: Program Synthesis
     links:
